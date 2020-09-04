@@ -1,0 +1,7 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -1 +1,4 @@
+ # The Circus Project
++
++- Used to demo abstract classes, interfaces, packages
++- Can be used to demo branching too
+\ No newline at end of file
